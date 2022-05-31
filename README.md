@@ -14,7 +14,7 @@
 Personal gallery application that you display your photos for others to see.
 
 
-[Go Back to the top](#reubens-gallery)
+[Go Back to the top](#gallery)
 
 
 ## User Stories
