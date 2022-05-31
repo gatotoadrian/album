@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Open+Sans:wght@300&family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: 'Delius Swash Caps', cursive;
+}
+#home{
+    background: #000;
+
+}
+#paragraph1{
+    color: #fff;
+    font-size: 7vh;
+    font-weight: bold;
+    text-align: center;
+}
+
+#paragraph1:hover{
+    color:#F9F871;
+}
+#trend{
+    color: #F9F871;
+    font-size: 3vh;
+    margin-top: 2%;
+}
+#trend mark{
+    
+    margin-left:1%;
+    background-color: transparent;
+    outline: 1px solid #F9F871;
+    color:#fff;
+
+}
+#trend mark:hover{
+    outline:2px solid #d18a27;
+    background: #412728;
+    border-radius: 4px;
+}
+#home-search{
+    background-color: #000;
+    height: 100vh;
+}
+#modal-fade{
+    margin: 0 auto;
+    
+    color: #000;
+}
+.search-title{
+    color: #F9F871;
+}
+#title{
+    color: #fff;
+    font-size: 4vh;
+    border-bottom: 1px solid #F9F871;
+    text-align: center;
+    margin-bottom: 2%;
+}
+#modal-body,.black{
+    background-color: #000;
+}
+#exampleModalLabel{
+    color: #d18a27;
+    font-size: 4vh;
+    font-weight: bolder;
+}
+#date, #cat, #loc,.desc-mod{
+    color: #d18a27;
+    font-size: 3vh;
+    font-weight: bold;
+    border-bottom: 1px solid #fff;
+}
+.desc{
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+#center{
+    text-align: center;
+    margin-top: 1%;
+
+}
+#locatione{
+    height: 280px;
+    width: 100%;
+    border: 1px solid #F9F871;
+    border-radius:4px;
+}
+.desc-loc{
+    color: #000;
+    font-weight: bold;
+}
+#picha{
+    font-style: italic;
+    font-weight: bolder;
+    color: #412728;
+
+
+}
+#mod-body, #footer{
+    background-color: #000;
+}
+
+.text-mod{
+    color: #fff;
+}
