@@ -62,7 +62,7 @@ To use this gallery project .......
   
 ##### Clone Repository:  
  ```bash 
-https://github.com/Reuben-Kipkemboi/Reuben-s--Gallery.git 
+
 ```
 ##### Install and activate Virtual Environment virtual  
  ```bash 
