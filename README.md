@@ -93,7 +93,7 @@ python manage.py makemigrations news
 ```
 Open the application on your browser `127.0.0.1:8000`.  
 
-[Go Back to the top](#reubens-gallery)
+[Go Back to the top](#gallery)
 
 
 ## Technologies Used
