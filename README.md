@@ -115,10 +115,6 @@ Open the application on your browser `127.0.0.1:8000`.
 #### https://gal-lery.herokuapp.com/
 
 
-## Author's Info
-
-* :email: [Reuben Kipkemboi](https://gmail.com)  
-
 <p align = "center">
-    &copy; 2022 @Reuben Kipkemboi.
+    &copy; 2022 @Adrian Baaru.
 </p>
