@@ -20,6 +20,7 @@ import cloudinary.uploader
 import cloudinary.api
 
 
+
 # adding config
 cloudinary.config( 
   cloud_name = "reuby", 
