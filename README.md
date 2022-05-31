@@ -27,7 +27,7 @@ User Can :-
 * Copy a link to the photo to share with my friends.
 * View photos based on the location they were taken.
 
-[Go Back to the top](#reubens-gallery)
+[Go Back to the top](#gallery)
 
 Home module
 
