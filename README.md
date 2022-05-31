@@ -30,10 +30,6 @@ User Can :-
 
 [Go Back to the top](#gallery)
 
-Home module
-
-![Home](./appgallery/static/images/picha-home.png)
-
 
 
 ## Behaviour Driven Development
