@@ -1,4 +1,4 @@
-# Reuben's Gallery
+#  Gallery
 
 #### By Adrian Baaru
 
