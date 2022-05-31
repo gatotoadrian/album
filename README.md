@@ -113,6 +113,7 @@ Open the application on your browser `127.0.0.1:8000`.
 
 [MIT License](LICENSE)
 
+
 ## Live Site
 
 #### https://gal-lery.herokuapp.com/
